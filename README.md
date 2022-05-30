@@ -1,8 +1,8 @@
-# Pancake Factory
+# SaitaMask Factory
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com/SaitaMaskswap/SaitaMask-swap-core/workflows/CI/badge.svg)](https://github.com/SaitaMaskswap/SaitaMask-swap-core/actions)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on SaitaMaskSwap is available at [docs.SaitaMaskswap.finance](https://docs.SaitaMaskswap.finance/).
 
 # Local Development
 
